@@ -3,6 +3,7 @@
 **The following two videos show the animations of the u(t,x,y) and v(t,x,y) solutions over the time domain.
 [![YouTube Thumbnail](https://img.youtube.com/vi/_1qK4ejEQnw/hqdefault.jpg)](https://www.youtube.com/watch?v=_1qK4ejEQnw)
 
+[![YouTube Thumbnail](https://img.youtube.com/vi/VCSHgUi42OU/maxresdefault.jpg)](https://www.youtube.com/watch?v=VCSHgUi42OU)
 
 **The following two videos show the evolution of self-adaptive weights for solving the second-order rogue wave of the Schrödinger equation.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
