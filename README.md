@@ -16,6 +16,8 @@ https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=shari
 ![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation-norm.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation.gif)
 
+The data for prediction and comparison of the nonlinear 3D heat conduction equation are shared on Google Drive.
+https://drive.google.com/file/d/15dChBZwIsxPBaW84w6ljOVfyfpxOQg6N/view?usp=sharing
 
 # Installation
 
