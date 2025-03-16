@@ -2,13 +2,13 @@
 
 The below two videos shows the evolution of self-adaptive weights for the first-order rogue wave solution of Schr\"{o}dinger equation.
 
-![Video](https://gitee.com/hucmwf/coupsa/raw/master/sa-sch1st-animation.gif)
-![Video](https://gitee.com/hucmwf/coupsa/raw/master/sa-sch1st-v-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-v-animation.gif)
 
 The below two videos shows the evolution of self-adaptive weights for the second-order rogue wave solution of Schr\"{o}dinger equation.
 
-![Video](https://gitee.com/hucmwf/coupsa/raw/master/sa-sch2nd-animation.gif)
-![Video](https://gitee.com/hucmwf/coupsa/raw/master/sa-sch2nd-v-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch2nd-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch2nd-v-animation.gif)
 
 
 # Installation
