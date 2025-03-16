@@ -1,8 +1,15 @@
 # Coupled partial differential equations solved by the improved self-adaptive PINNs
 
-This video demonstrates the evolution of self-adaptive weights for the SM1 case.
+The below two videos shows the evolution of self-adaptive weights for the first-order rogue wave solution of Schr\"{o}dinger equation.
 
-![Video](https://gitee.com/wilsonhu/npdesg/raw/master/sa-sm1-animation.gif)
+![Video](https://gitee.com/wilsonhu/npdesg/raw/master/sa-sch1st-animation.gif)
+![Video](https://gitee.com/wilsonhu/npdesg/raw/master/sa-sch1st-v-animation.gif)
+
+The below two videos shows the evolution of self-adaptive weights for the second-order rogue wave solution of Schr\"{o}dinger equation.
+
+![Video](https://gitee.com/wilsonhu/npdesg/raw/master/sa-sch2nd-animation.gif)
+![Video](https://gitee.com/wilsonhu/npdesg/raw/master/sa-sch2nd-v-animation.gif)
+
 
 # Installation
 ISA-PINNs implemented in PyTorch:
