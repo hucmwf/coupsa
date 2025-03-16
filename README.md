@@ -2,7 +2,11 @@
 
 The below two videos shows the evolution of self-adaptive weights for the first-order rogue wave solution of Schrödinger equation.
 
-<img src="https://raw.githubusercontent.com/coupsa/sa-sch1st/main/sa-sch1st-animation.gif" alt="Schrödinger 1st Animation">
+<video autoplay loop muted playsinline>
+    <source src="https://raw.githubusercontent.com/hucmwf/coupsa/main/sa-sch1st-animation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 ![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-animation.gif)
