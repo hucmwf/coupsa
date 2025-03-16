@@ -13,7 +13,7 @@ The below two videos shows the evolution of self-adaptive weights for the first-
 </body>
 </html>
 
-![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-v-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/raw/master/sa-sch1st-animation.gif)
 
 The below two videos shows the evolution of self-adaptive weights for the second-order rogue wave solution of Schrödinger equation.
 
