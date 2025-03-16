@@ -1,6 +1,9 @@
 # Coupled partial differential equations solved by the improved self-adaptive PINNs
 
-# The following two videos show the animations of the u(t,x,y) and v(t,x,y) solutions over the time domain.
+For Burgers' equation, the data used to generate the following video are shared on Google Drive.
+https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=sharing
+
+# The following two videos show the animations of the u(t,x,y) and v(t,x,y) solutions of Burgers' equation over the time domain.
 [![YouTube Thumbnail](https://img.youtube.com/vi/_1qK4ejEQnw/hqdefault.jpg)](https://www.youtube.com/watch?v=_1qK4ejEQnw)
 
 [![YouTube Thumbnail](https://img.youtube.com/vi/VCSHgUi42OU/sddefault.jpg)](https://www.youtube.com/watch?v=VCSHgUi42OU)
