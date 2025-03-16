@@ -1,25 +1,12 @@
 # Coupled partial differential equations solved by the improved self-adaptive PINNs
 
-The below two videos shows the evolution of self-adaptive weights for the first-order rogue wave solution of Schrödinger equation.
-
-<style>
-    .gif-animation {
-        width: 200px;
-        height: auto; /* 让高度自适应，避免变形 */
-    }
-</style>
-
-<img class="gif-animation" src="https://github.com/hucmwf/coupsa/blob/main/sa-sch1st-animation.gif" alt="Animation">
-
-
-![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch1st-animation.gif)
-![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch1st-v-animation.gif)
-
-
-The below two videos shows the evolution of self-adaptive weights for the second-order rogue wave solution of Schrödinger equation.
-
+The following two videos show the evolution of self-adaptive weights for solving the second-order rogue wave of the Schrödinger equation.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-v-animation.gif)
+
+The following two videos show the evolution of self-adaptive weights for solving the EB equation, with and without data normalization.
+![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation-norm.gif)
+![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation.gif)
 
 
 # Installation
