@@ -15,7 +15,6 @@
 
 
 # Installation
-ISA-PINNs implemented in PyTorch:
 
 PyTorch version 2.0.0 or higher
 
