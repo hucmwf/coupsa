@@ -16,13 +16,13 @@ The Schr\"{o}dinger equation, decomposed into real and imaginary parts as couple
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-v-animation.gif)
 
-ISA-PINNs achieve 1–2 orders of magnitude higher precision compared to causal PINNs with transfer learning, overcoming the limitations of prior SA-PINNs that failed to produce reliable solutions for EB and TB dynamics.
+ISA-PINNs achieve 1–2 orders of magnitude higher precision than causal PINNs with transfer learning, addressing the limitations of prior SA-PINNs that struggled to produce reliable solutions for EB and TB dynamics.
 
 # The following two videos show the evolution of self-adaptive weights for solving the EB equation, with and without data normalization.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation-norm.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation.gif)
 
-# Installation
+# Installation on RTX 4070 in Linux
 
 PyTorch version 2.0.0 or higher
 
