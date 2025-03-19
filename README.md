@@ -10,10 +10,13 @@ https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=shari
 
 [![YouTube Thumbnail](https://img.youtube.com/vi/VCSHgUi42OU/sddefault.jpg)](https://www.youtube.com/watch?v=VCSHgUi42OU)
 
-The Schr\"{o}dinger equation, decomposed into real and imaginary parts as coupled equations, is solved with high prediction accuracy.
+The Schr\"{o}dinger equation, decomposed into real and imaginary parts as coupled equations, is solved with high prediction accuracy by the model.
+
 # The following two videos show the evolution of self-adaptive weights for solving the second-order rogue wave of the Schrödinger equation.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-v-animation.gif)
+
+ISA-PINNs achieve 1–2 orders of magnitude higher precision compared to causal PINNs with transfer learning, overcoming the limitations of prior SA-PINNs that failed to produce reliable solutions for EB and TB dynamics.
 
 # The following two videos show the evolution of self-adaptive weights for solving the EB equation, with and without data normalization.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/EB-animation-norm.gif)
