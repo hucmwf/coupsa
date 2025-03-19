@@ -1,5 +1,6 @@
 # Coupled partial differential equations solved by the improved self-adaptive PINNs
 
+The ISA-PINNs achieve high precision for solving the 2D Burgers' equations, demonstrating a 2-3 orders of magnitude improvement compared to the original self-adaptive PINNs and outperforming DeepXDE with the residual-based adaptive refinement method.
 For Burgers' equation, the data used to generate the following video are shared on Google Drive.
 https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=sharing
 
