@@ -12,6 +12,10 @@ https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=shari
 
 The Schr\"{o}dinger equation, decomposed into real and imaginary parts as coupled equations, is solved with high prediction accuracy by the model.
 
+# The following two videos show the evolution of self-adaptive weights for solving the first-order rogue wave of the Schrödinger equation.
+![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch1st-animation.gif)
+![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch1st-v-animation.gif)
+
 # The following two videos show the evolution of self-adaptive weights for solving the second-order rogue wave of the Schrödinger equation.
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-v-animation.gif)
