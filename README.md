@@ -2,7 +2,8 @@
 
 The ISA-PINNs achieve high precision for solving the 2D Burgers' equations, demonstrating a 2-3 orders of magnitude improvement compared to the original SA-PINNs and outperforming DeepXDE with the residual-based adaptive refinement method.
 
-For the 2D Burgers' equation, the prediction result data is shared on Google Drive due to data file size limitations here.
+For the 2D Burgers' equation, the data file for achieving prediction solutions is shared on Google Drive due to file size limitations.
+The exact and learned results are combined to generate two videos demonstrating the high precision.
 
 https://drive.google.com/file/d/1hA2Lo914UjzwCzJkG5Gyy78kzFFAuiKK/view?usp=sharing
 
