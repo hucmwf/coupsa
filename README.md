@@ -22,6 +22,8 @@ The Schr\"{o}dinger equation, decomposed into real and imaginary parts as couple
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-animation.gif)
 ![Video](https://github.com/hucmwf/coupsa/blob/main/sa-sch2nd-v-animation.gif)
 
+The number of epochs in the Adam optimizer is set sufficiently high to ensure the convergence of self-adaptive weights.
+
 # Installation on RTX 4070 in Linux
 
 PyTorch version 2.0.0 or higher
